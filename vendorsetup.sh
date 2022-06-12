@@ -1,3 +1,3 @@
 for var in eng user userdebug; do
-  add_lunch_combo omni_xandxt-$var
+  add_lunch_combo twrp_xandxt-$var
 done
